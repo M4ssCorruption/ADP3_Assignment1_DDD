@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe85ccee-73e4-4ea4-8c90-9ecd6986cd37" name="Changes" comment="Updated the appropriate comments for the files" />
+    <list default="true" id="fe85ccee-73e4-4ea4-8c90-9ecd6986cd37" name="Changes" comment="Daniel Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648734891362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Daniel Commit">
+      <created>1648736452207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648736452207</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +128,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="219476845" />
+                        <option value="origin/219476845" />
                       </list>
                     </value>
                   </entry>
@@ -138,6 +145,7 @@
     <MESSAGE value="User and Flight Entitiy Commit" />
     <MESSAGE value="Helper Class Commit" />
     <MESSAGE value="Updated the appropriate comments for the files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the appropriate comments for the files" />
+    <MESSAGE value="Daniel Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daniel Commit" />
   </component>
 </project>
