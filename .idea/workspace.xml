@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe85ccee-73e4-4ea4-8c90-9ecd6986cd37" name="Changes" comment="Updated the appropriate comments for the files" />
+    <list default="true" id="fe85ccee-73e4-4ea4-8c90-9ecd6986cd37" name="Changes" comment="Helper Class Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Util/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Util/Helper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,21 +96,7 @@
       <option name="project" value="LOCAL" />
       <updated>1648666795868</updated>
     </task>
-    <task id="LOCAL-00006" summary="Helper Class Code For Email Validation. FlightFactory and UserFactory class created. TDD classes for the factory package has been made and Committed">
-      <created>1648729744657</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1648729744657</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Updated the appropriate comments for the files">
-      <created>1648731436672</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1648731436672</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,8 +114,6 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="User and Flight Entitiy Commit" />
     <MESSAGE value="Helper Class Commit" />
-    <MESSAGE value="Helper Class Code For Email Validation. FlightFactory and UserFactory class created. TDD classes for the factory package has been made and Committed" />
-    <MESSAGE value="Updated the appropriate comments for the files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the appropriate comments for the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Helper Class Commit" />
   </component>
 </project>
