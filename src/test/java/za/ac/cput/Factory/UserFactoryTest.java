@@ -1,3 +1,9 @@
+/* UserFactoryTest.java
+ Test for the UserFactoryTest
+ Author: Daniel Marais (219476845)
+ Date: 30 March 2022
+
+ */
 package za.ac.cput.Factory;
 
 import org.junit.jupiter.api.Test;
